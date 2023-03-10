@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a /path/to/dir
+ls -a
