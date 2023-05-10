@@ -1,0 +1,10 @@
+#!/bin/bash
+
+Current Directory: 
+ls -la
+
+Parent of Working Directory: 
+ls -la ../
+
+/boot Directory: 
+ls -la /boot
